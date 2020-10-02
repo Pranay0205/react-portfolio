@@ -1,25 +1,24 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "ReactJS Developer && Instructor @CleverProgrammer",
-    "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. #papaReact",
+    "name": "Pranay Suresh Ghuge",
+    "occupation": "A Web Developer && A final year CCE student.",
+    "description": "Latur based developer with great passion for front-end development.",
     "image": "IG_Sonny.jpeg",
-    "bio": "My name is Sonny, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also coaching ",
+    "bio": "My name is Pranay, I'm a Full Stack Developer. Currently I'm Studying in Manipal University Jaipur. ",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "sonny@cleverprogrammer.com",
-    "phone": "+44 12 345 6789",
+    "email": "ABC@gmail.com",
+    "phone": "+91 XXXXXXXXXX",
     "address": {
       "street": "123 Fake Street",
-      "city": "London",
-      "state": "UK",
-      "zip": "ABC 123"
+      "city": "Fake Town",
+      "state": "Fake Country",
+      "zip": "Why do you think this wouldn't be fake."
     },
     "website": "http://www.timbakerdev.com",
     "resumedownload": "http://timbakerdev.com",
-    "social": [
-      {
+    "social": [{
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://www.facebook.com/pranay_ghuge",
         "className": "fa fa-facebook"
       },
       {
@@ -34,24 +33,21 @@
       },
       {
         "name": "github",
-        "url": "http://github.com/sonnysangha",
+        "url": "http://github.com/prany0205",
         "className": "fa fa-github"
       }
     ]
   },
   "resume": {
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
-    "education": [
-      {
-        "school": "University of Kent",
-        "degree": "Masters in Advanced Computer Science",
-        "graduated": "January 2017",
-        "description": "Graduated with Distinction"
-      }
-    ],
-    "work": [
-      {
-        "company": "Clever Programmer",
+    "education": [{
+      "school": "Manipal Univetrsity Jaipur",
+      "degree": "Bachelor of Technology in Computer and Communication",
+      "graduated": "May 2021(expected)",
+      "description": "Final Year"
+    }],
+    "work": [{
+        "company": "NA",
         "title": "Team Member && React Specialist",
         "years": "April 2020 - Present",
         "description": "Teaching ReactJS to thousands of students."
@@ -63,8 +59,7 @@
         "description": "Building MrQ, a gambling website."
       }
     ],
-    "skills": [
-      {
+    "skills": [{
         "name": "ReactJs",
         "level": "100%"
       },
@@ -77,10 +72,6 @@
         "level": "60%"
       },
       {
-        "name": "Figma && Adobe XD",
-        "level": "55%"
-      },
-      {
         "name": "HTML5",
         "level": "80%"
       },
@@ -91,8 +82,7 @@
     ]
   },
   "portfolio": {
-    "projects": [
-      {
+    "projects": [{
         "title": "MERN Stack WhatsApp Clone",
         "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
         "image": "whatsapp-mern.jpeg",
@@ -125,8 +115,7 @@
     ]
   },
   "testimonials": {
-    "testimonials": [
-      {
+    "testimonials": [{
         "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
         "user": "Kareem Abdul Jabbar"
       },
